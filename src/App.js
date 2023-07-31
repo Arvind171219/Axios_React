@@ -1,9 +1,8 @@
-import QRCodeGenerator from "./QRCodeGenerator";
 
 function App() {
   return (
     <div className="App">
-      <QRCodeGenerator/>
+    <h2>Arvind kumar </h2>
     </div>
   );
 }
