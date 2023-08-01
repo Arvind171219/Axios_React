@@ -1,9 +1,7 @@
-import News from "./News";
-
 function App() {
   return (
     <div className="App">
-    <News/>
+      <h2>Arvind arya</h2>
     </div>
   );
 }
