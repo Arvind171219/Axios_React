@@ -1,9 +1,11 @@
+import News from "./News";
 
 function App() {
   return (
     <div className="App">
-    <h2>Arvind kumar </h2>
+    <News/>
     </div>
   );
 }
 export default App;
+ 
